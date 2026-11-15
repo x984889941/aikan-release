@@ -1,6 +1,6 @@
 {
-  "versionCode": 30,
-  "versionName": "1.8.0",
-  "page": "https://raw.githubusercontent.com/x984889941/aikan-release/main/aikan-1.8.0.apk",
-  "notes": "隐藏站点底部导航栏，导航统一走左上角菜单"
+  "versionCode": 31,
+  "versionName": "1.8.1",
+  "page": "https://raw.githubusercontent.com/x984889941/aikan-release/main/aikan-1.8.1.apk",
+  "notes": "详情/选片页左上角改为返回上一级按钮，其余页面保留菜单"
 }
