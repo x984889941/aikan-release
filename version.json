@@ -1,6 +1,6 @@
 {
-  "versionCode": 29,
-  "versionName": "1.7.0",
-  "page": "https://raw.githubusercontent.com/x984889941/aikan-release/main/aikan-1.7.0.apk",
-  "notes": "1.7.0：更新源迁移到 GitHub 公开仓库。功能沿用 1.6.7（全屏返回按钮、选集右侧滑入、上/下一集、长按音量控制）。"
+  "versionCode": 30,
+  "versionName": "1.8.0",
+  "page": "https://raw.githubusercontent.com/x984889941/aikan-release/main/aikan-1.8.0.apk",
+  "notes": "隐藏站点底部导航栏，导航统一走左上角菜单"
 }
