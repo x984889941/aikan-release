@@ -1,6 +1,6 @@
 {
-  "versionCode": 38,
-  "versionName": "1.8.8",
-  "page": "https://raw.githubusercontent.com/x984889941/aikan-release/main/aikan-1.8.8.apk",
-  "notes": "左侧锁定；续播只问是否继续；后台播放；退到后台自动进入系统画中画小窗"
+  "versionCode": 39,
+  "versionName": "1.8.9",
+  "page": "https://raw.githubusercontent.com/x984889941/aikan-release/main/aikan-1.8.9.apk",
+  "notes": "改用原生媒体通知接入荣耀灵动胶囊/小米超级岛；保留左侧锁定、只问是否继续播放、后台播放"
 }
