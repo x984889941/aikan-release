@@ -1,6 +1,6 @@
 {
-  "versionCode": 40,
-  "versionName": "1.8.10",
-  "page": "https://raw.githubusercontent.com/x984889941/aikan-release/main/aikan-1.8.10.apk",
-  "notes": "全屏锁定键移到左侧垂直居中；加固双击播放暂停；全屏方向跟随视频比例，修复平板竖屏视频左右各1/3黑边"
+  "versionCode": 41,
+  "versionName": "1.8.11",
+  "page": "https://raw.githubusercontent.com/x984889941/aikan-release/main/aikan-1.8.11.apk",
+  "notes": "全屏锁定键移到左侧垂直居中；双击判定窗口放宽到500ms，提升真机成功率；全屏方向跟随视频比例，修复平板竖屏视频左右各1/3黑边"
 }
