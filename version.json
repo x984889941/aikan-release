@@ -1,6 +1,6 @@
 {
-  "versionCode": 44,
-  "versionName": "1.8.14",
-  "page": "https://raw.githubusercontent.com/x984889941/aikan-release/main/aikan-1.8.14.apk",
-  "notes": "新增跳过片头片尾；优化小米超级岛、荣耀灵动胶囊的媒体通知"
+  "versionCode": 45,
+  "versionName": "1.8.15",
+  "page": "https://raw.githubusercontent.com/x984889941/aikan-release/main/aikan-1.8.15.apk",
+  "notes": "修复荣耀手机音频焦点瞬态丢失导致的反复自动暂停"
 }
