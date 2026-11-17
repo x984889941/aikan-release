@@ -1,6 +1,6 @@
 {
-  "versionCode": 42,
-  "versionName": "1.8.12",
-  "page": "https://raw.githubusercontent.com/x984889941/aikan-release/main/aikan-1.8.12.apk",
-  "notes": "选集面板顶部新增后台播放开关：可手动开启/关闭；关闭后切到后台自动暂停，设置会记住"
+  "versionCode": 43,
+  "versionName": "1.8.13",
+  "page": "https://raw.githubusercontent.com/x984889941/aikan-release/main/aikan-1.8.13.apk",
+  "notes": "修复播放中反复自动暂停：音频焦点只在开始播放时申请一次；双击播放/暂停改回直接控制 video 元素，避免状态不同步"
 }
