@@ -1,6 +1,6 @@
 {
-  "versionCode": 35,
-  "versionName": "1.8.5",
-  "page": "https://raw.githubusercontent.com/x984889941/aikan-release/main/aikan-1.8.5.apk",
-  "notes": "同集换线路记住播放进度，从原时间续播；换集不串位，重开页面可恢复"
+  "versionCode": 36,
+  "versionName": "1.8.6",
+  "page": "https://raw.githubusercontent.com/x984889941/aikan-release/main/aikan-1.8.6.apk",
+  "notes": "换线路不再自动续播，弹出上次播放位置，可继续或从头播放；进度条标记原位置"
 }
