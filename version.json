@@ -1,6 +1,6 @@
 {
-  "versionCode": 43,
-  "versionName": "1.8.13",
-  "page": "https://raw.githubusercontent.com/x984889941/aikan-release/main/aikan-1.8.13.apk",
-  "notes": "修复播放中反复自动暂停：音频焦点只在开始播放时申请一次；双击播放/暂停改回直接控制 video 元素，避免状态不同步"
+  "versionCode": 44,
+  "versionName": "1.8.14",
+  "page": "https://raw.githubusercontent.com/x984889941/aikan-release/main/aikan-1.8.14.apk",
+  "notes": "新增跳过片头片尾；优化小米超级岛、荣耀灵动胶囊的媒体通知"
 }
