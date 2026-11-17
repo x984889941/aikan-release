@@ -1,6 +1,6 @@
 {
-  "versionCode": 37,
-  "versionName": "1.8.7",
-  "page": "https://raw.githubusercontent.com/x984889941/aikan-release/main/aikan-1.8.7.apk",
-  "notes": "换线路弹出上次播放位置并暂停等待选择；继续或从头播放，进度条标记原位置"
+  "versionCode": 38,
+  "versionName": "1.8.8",
+  "page": "https://raw.githubusercontent.com/x984889941/aikan-release/main/aikan-1.8.8.apk",
+  "notes": "左侧锁定；续播只问是否继续；后台播放；退到后台自动进入系统画中画小窗"
 }
