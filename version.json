@@ -1,6 +1,6 @@
 {
-  "versionCode": 33,
-  "versionName": "1.8.3",
-  "page": "https://raw.githubusercontent.com/x984889941/aikan-release/main/aikan-1.8.3.apk",
-  "notes": "选集面板复用码流核验清晰度，外显档位同步到里面"
+  "versionCode": 34,
+  "versionName": "1.8.4",
+  "page": "https://raw.githubusercontent.com/x984889941/aikan-release/main/aikan-1.8.4.apk",
+  "notes": "播放页视频下移，返回按钮移到视频上方，线路条左对齐"
 }
