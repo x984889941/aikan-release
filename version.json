@@ -1,6 +1,6 @@
 {
-  "versionCode": 39,
-  "versionName": "1.8.9",
-  "page": "https://raw.githubusercontent.com/x984889941/aikan-release/main/aikan-1.8.9.apk",
-  "notes": "改用原生媒体通知接入荣耀灵动胶囊/小米超级岛；保留左侧锁定、只问是否继续播放、后台播放"
+  "versionCode": 40,
+  "versionName": "1.8.10",
+  "page": "https://raw.githubusercontent.com/x984889941/aikan-release/main/aikan-1.8.10.apk",
+  "notes": "全屏锁定键移到左侧垂直居中；加固双击播放暂停；全屏方向跟随视频比例，修复平板竖屏视频左右各1/3黑边"
 }
