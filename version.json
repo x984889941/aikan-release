@@ -1,6 +1,6 @@
 {
-  "versionCode": 46,
-  "versionName": "1.8.16",
-  "page": "https://raw.githubusercontent.com/x984889941/aikan-release/main/aikan-1.8.16.apk",
-  "notes": "彻底移除原生音频焦点申请，交由 WebView 管理，修复荣耀手机播放即暂停"
+  "versionCode": 47,
+  "versionName": "1.8.17",
+  "page": "https://raw.githubusercontent.com/x984889941/aikan-release/main/aikan-1.8.17.apk",
+  "notes": "加入后台/息屏保活与 WiFi 锁；修复荣耀灵动胶囊出现一秒消失；切后台不再被播放状态回调停掉媒体服务"
 }
