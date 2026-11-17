@@ -1,6 +1,6 @@
 {
-  "versionCode": 32,
-  "versionName": "1.8.2",
-  "page": "https://raw.githubusercontent.com/x984889941/aikan-release/main/aikan-1.8.2.apk",
-  "notes": "全屏顶部返回/选集随控制条显隐；选集面板显示线路清晰度"
+  "versionCode": 33,
+  "versionName": "1.8.3",
+  "page": "https://raw.githubusercontent.com/x984889941/aikan-release/main/aikan-1.8.3.apk",
+  "notes": "选集面板复用码流核验清晰度，外显档位同步到里面"
 }
