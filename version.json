@@ -1,6 +1,6 @@
 {
-  "versionCode": 47,
-  "versionName": "1.8.17",
-  "page": "https://raw.githubusercontent.com/x984889941/aikan-release/main/aikan-1.8.17.apk",
-  "notes": "加入后台/息屏保活与 WiFi 锁；修复荣耀灵动胶囊出现一秒消失；切后台不再被播放状态回调停掉媒体服务"
+  "versionCode": 48,
+  "versionName": "1.8.18",
+  "page": "https://raw.githubusercontent.com/x984889941/aikan-release/main/aikan-1.8.18.apk",
+  "notes": "后台播放：页面被系统暂停后自动恢复；切后台保留 WebView 与媒体服务；继续持有息屏 WakeLock/WiFiLock"
 }
