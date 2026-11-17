@@ -1,6 +1,6 @@
 {
-  "versionCode": 45,
-  "versionName": "1.8.15",
-  "page": "https://raw.githubusercontent.com/x984889941/aikan-release/main/aikan-1.8.15.apk",
-  "notes": "修复荣耀手机音频焦点瞬态丢失导致的反复自动暂停"
+  "versionCode": 46,
+  "versionName": "1.8.16",
+  "page": "https://raw.githubusercontent.com/x984889941/aikan-release/main/aikan-1.8.16.apk",
+  "notes": "彻底移除原生音频焦点申请，交由 WebView 管理，修复荣耀手机播放即暂停"
 }
