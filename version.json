@@ -1,6 +1,6 @@
 {
-  "versionCode": 41,
-  "versionName": "1.8.11",
-  "page": "https://raw.githubusercontent.com/x984889941/aikan-release/main/aikan-1.8.11.apk",
-  "notes": "全屏锁定键移到左侧垂直居中；双击判定窗口放宽到500ms，提升真机成功率；全屏方向跟随视频比例，修复平板竖屏视频左右各1/3黑边"
+  "versionCode": 42,
+  "versionName": "1.8.12",
+  "page": "https://raw.githubusercontent.com/x984889941/aikan-release/main/aikan-1.8.12.apk",
+  "notes": "选集面板顶部新增后台播放开关：可手动开启/关闭；关闭后切到后台自动暂停，设置会记住"
 }
