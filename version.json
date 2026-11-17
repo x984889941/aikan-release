@@ -1,6 +1,6 @@
 {
-  "versionCode": 48,
-  "versionName": "1.8.18",
-  "page": "https://raw.githubusercontent.com/x984889941/aikan-release/main/aikan-1.8.18.apk",
-  "notes": "后台播放：页面被系统暂停后自动恢复；切后台保留 WebView 与媒体服务；继续持有息屏 WakeLock/WiFiLock"
+  "versionCode": 49,
+  "versionName": "1.8.19",
+  "page": "https://raw.githubusercontent.com/x984889941/aikan-release/main/aikan-1.8.19.apk",
+  "notes": "离开播放页/回到首页时清理播放状态并停止媒体服务，避免首页上滑仍显示灵动胶囊"
 }
